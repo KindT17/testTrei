@@ -5,7 +5,7 @@
 		"wp/gittest3-wp": "*"
 	},
 	"type": "gittest3-module",
-	"version": "1.9.6",
+	"version": "1.9.7",
 	"license": [
 		"Test1",
 		"Test2"
